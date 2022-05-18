@@ -86,9 +86,9 @@ p {
 .title-image {
   width: 60%;
   position: absolute;
-  right: -40%;
-  top: -100px;
-  width: 200%;
+  right: -15px;
+  top: -50px;
+  width: 150%;
   height: auto;
 }
 
